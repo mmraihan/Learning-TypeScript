@@ -17,4 +17,4 @@ let person={
     isCaptain: true,
 
 }
-person.name="Sakib AL Hasan"; // in object you can't assign  number type. ALready set a structure when you declared
+person.name="Sakib AL Hasan"; // in object you can't assign  number type. ALready set a structure when you
