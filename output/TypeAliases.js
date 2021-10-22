@@ -7,6 +7,6 @@ var sayHello = function (user) {
 };
 var person1 = {
     name: "Raihan",
-    age: 22
+    age: 56
 };
 sayHello(person1);
