@@ -1,14 +1,14 @@
 "use strict";
 // Use wisely "any", not recommended
-var anyA;
+let anyA;
 anyA = 5;
 anyA = 'Raihan';
 //Array
-var dynamicArray = [];
+let dynamicArray = [];
 dynamicArray.push(12);
 dynamicArray.push("raihan");
 //Object
-var dynamicObj;
+let dynamicObj;
 dynamicObj = {
     name: "Mr Alam",
     age: 22

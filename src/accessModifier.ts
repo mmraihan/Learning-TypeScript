@@ -13,7 +13,7 @@
     class Player2{
        
         constructor(
-        private name: string,
+        public name: string,
         public age: number,
         readonly country: string,
         ) 
